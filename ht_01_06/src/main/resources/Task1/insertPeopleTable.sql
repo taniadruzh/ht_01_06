@@ -1,0 +1,10 @@
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO', 'Dnepr', '123', 11);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO1', 'Dnepr1', '123', 12);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO2', 'Dnepr2', '123', 13);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO3', 'Dnepr3', '123', 14);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO4', 'Dnepr4', '123', 14);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO5', 'Dnepr5', '123', 13);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO6', 'Dnepr6', '123', 12);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO7', 'Dnepr7', '123', 11);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO8', 'Dnepr8', '123', 15);
+INSERT INTO public.people (fio, adress, phone, age) VALUES ('FIO9', 'Dnepr9', '123', 21);

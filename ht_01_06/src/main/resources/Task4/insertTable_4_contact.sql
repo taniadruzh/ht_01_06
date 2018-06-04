@@ -1,0 +1,12 @@
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (1, 1, '01.04.2013', 1);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (1, 2, '07.04.2013', 1);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (2, 1, '02.04.2013', 2);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (2, 1, '01.04.2013', 3);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (2, 2, '02.04.2013', 4);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (3, 1, '07.04.2013', 4);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (3, 5, '02.04.2013', 6);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (3, 6, '03.04.2013', 5);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (3, 4, '03.04.2013', 3);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (4, 4, '03.04.2013', 3);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (5, 4, '03.04.2013', 1);
+INSERT INTO public."4_contact" (id_service, id_operator, date_contact, id_client) VALUES (5, 6, '04.04.2013', 4);
